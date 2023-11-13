@@ -1,8 +1,6 @@
 # OpenCirnix
 워크래프트3 외부 프로그램 Cirnix의 오픈소스 버전입니다.
 
-**문의 안받습니다.**
-
 
 
 개발에 사용된 IDE: Visual Studio 2019
