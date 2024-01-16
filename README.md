@@ -10,7 +10,7 @@
 - .NET Framework 4.6.2 이상의 버전
 
 
-**치르닉스 다운로드 실패시**
+**치르닉스 다운로드 및 업데이트 실패시**
 - 윈도우의 실시간 보호를 해제하거나 제외 항목으로 설정 해주세요.
 
 ![image](https://github.com/mbcd4762/CirnixUpdate/assets/66941827/c6f3e038-b501-40cf-847c-30de2783cab5)
